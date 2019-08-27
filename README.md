@@ -1,2 +1,3 @@
 # parcel-ex1
-parcel ex
+
+Setting up a professional React project with Parcel as a code bundler.
